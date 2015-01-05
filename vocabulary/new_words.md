@@ -1,0 +1,19 @@
+|words or pharse|Occur numbers|Level of memoization|
+|contemporary|  1  |  0  |
+|pedagogy|  1  |  0  |
+|justification|  2  |  0  |
+|conduct|  1  |  0  |
+|disparage|  1  |  0  |
+|pervasive|  1  |  0  |
+|sentient|  1  |  0  |
+|peril|  1  |  0  |
+|didactic|  1  |  0  |
+|skeptical|  1  |  0  |
+|diverse|  1  |  0  |
+|caters|  1  |  0  |
+|dispense|  1  |  0  |
+|toil|  1  |  0  |
+|Emergent|  1  |  0  |
+|premise|  1  |  0  |
+|cue|  1  |  0  |
+||  1  |  0  |
