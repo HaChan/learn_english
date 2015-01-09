@@ -16,4 +16,15 @@
 |Emergent|  1  |  0  |
 |premise|  1  |  0  |
 |cue|  1  |  0  |
-||  1  |  0  |
+|tentative|  1  |  0  |
+|alleging|  1  |  0  |
+|defamation|  1  |  0  |
+|viable|  1  |  0  |
+|hemorrhaging|  1  |  0  |
+|applause|  1  |  0  |
+|prospective|  1  |  0  |
+|feasible|  1  |  0  |
+|reluctant|  1  |  0  |
+|sustain|  1  |  0  |
+|reify|  1  |  0  |
+|rudimentary|  1  |  0  |
