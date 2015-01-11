@@ -28,3 +28,11 @@
 |sustain|  1  |  0  |
 |reify|  1  |  0  |
 |rudimentary|  1  |  0  |
+|collocation|  1  |  0  |
+|outskirts|  1  |  0  |
+|suburb|  1  |  0  |
+|inadequate|  1  |  0  |
+|occupation|  1  |  0  |
+|means|  1  |  0  |
+|consternation|  1  |  0  |
+|delineation|  1  |  0  |
