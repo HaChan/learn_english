@@ -36,3 +36,17 @@
 |means|  1  |  0  |
 |consternation|  1  |  0  |
 |delineation|  1  |  0  |
+|Empathy|  1  |  0  |
+|flaunt|  1  |  0  |
+|stems|  2  |  0  |
+|impostor|  1  |  0  |
+|recite|  1  |  0  |
+|diversity|  1  |  0  |
+|inevitably|  1  |  0  |
+|mediocrity|  1  |  0  |
+|refrain|  1  |  0  |
+|enervated|  1  |  0  |
+|Sustainable|  1  |  0  |
+|cohesive|  1  |  0  |
+|obsolete|  1  |  0  |
+|rebuttal|  1  |  0  |
