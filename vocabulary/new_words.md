@@ -14,7 +14,7 @@
 |dispense|  1  |  0  |
 |toil|  1  |  0  |
 |Emergent|  1  |  0  |
-|premise|  1  |  0  |
+|premise|  2  |  0  |
 |cue|  1  |  0  |
 |tentative|  1  |  0  |
 |alleging|  1  |  0  |
@@ -50,3 +50,13 @@
 |cohesive|  1  |  0  |
 |obsolete|  1  |  0  |
 |rebuttal|  1  |  0  |
+|conflate|  1  |  0  |
+|subtle|  1  |  0  |
+|impose|  1  |  0  |
+|procastiantion|  1  |  0  |
+|obligate|  1  |  0  |
+|derogatory|  1  |  0  |
+|humble|  1  |  0  |
+|contend|  1  |  0  |
+|opaque|  1  |  0  |
+|resonance|  1  |  0  |
