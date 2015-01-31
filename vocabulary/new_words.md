@@ -60,3 +60,4 @@
 |contend|  1  |  0  |
 |opaque|  1  |  0  |
 |resonance|  1  |  0  |
+|voyage|  1  |  0  |
