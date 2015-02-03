@@ -1,4 +1,4 @@
-|words or pharse|Occur numbers|Level of memoization|
+|words or phrase|Occur numbers|Level of memoization|
 |contemporary|  1  |  0  |
 |pedagogy|  1  |  0  |
 |justification|  2  |  0  |
@@ -53,7 +53,7 @@
 |conflate|  1  |  0  |
 |subtle|  1  |  0  |
 |impose|  1  |  0  |
-|procastiantion|  1  |  0  |
+|procrastination|  2  |  0  |
 |obligate|  1  |  0  |
 |derogatory|  1  |  0  |
 |humble|  1  |  0  |
@@ -61,3 +61,8 @@
 |opaque|  1  |  0  |
 |resonance|  1  |  0  |
 |voyage|  1  |  0  |
+|consumption|  1  |  0  |
+|suburb|  1  |  0  |
+|corollary|  1  |  0  |
+|reluctant|  1  |  0  |
+|exempt|  1  |  0  |
