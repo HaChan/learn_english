@@ -68,7 +68,7 @@ Used went:
 
 - Emphasize the activity **without focusing** on its **completion**. Compare:
 
-    > For a while last year I **was working** at the cinema, **studing** for my degree and writing a column for the local newspaper. (we don't know if the actions were completed or not, or whether they happened at the same time)
+    > For a while last year I **was working** at the cinema, **studying** for my degree and writing a column for the local newspaper. (we don't know if the actions were completed or not, or whether they happened at the same time)
 
     > Last year I **worked** at the cinema, **studied** for my degree and **wrote** a column for the local newspaper. (suggest all the jobs are now completed, and probably happened in that order)
 
@@ -102,3 +102,73 @@ Used when:
 
 ! Do not use `would` with the state verbs.
 
+##Past perfect simple
+
+|Sym|Form|Example|
+|---|----|-------|
+|`+`| _had_ + past participle | They **had listened** to his music. |
+|`-`| _had not_ + past participle | They **had not listened** to his music. |
+|`?`| _had..._ + past participle? | **Had** they **listened** to his music? |
+
+Past perfect simple is used:
+
+  - when talking about the past and want to mention something that happened earlier:
+
+  > His father was a composer and his grandfather **had** also **been** a musician. (the person grandfather was a musician and then later his father became a composer)
+
+  Sometime we use words like `just` or `already`. Notice that these adverbs go **between the auxiliary** and the **main verb**:
+
+  > By the time he was 17, Mozart's reputation **had already begun** to spread through Europe.
+
+  ! Use the past simple tense if the **events are mentioned in chronological order**:
+
+  > His grandfather **was** a musician and his father **was** also a composer.
+
+
+  - with words like `when`, `as soon as`, `by the time`, `after` to show the order of events:
+
+  > When Mozart was born. five of his siblings **had** already **killed**. (Mozart's siblings died first, then Mozart was born)
+
+  !Notice the difference in meaning between these two sentences:
+
+  > When I got home, my husband **cooked** dinner. (= I got home and then my husband cooked dinner)
+
+  > When I got home, my husband **had cooked** dinner. (= my husband cooked dinner before I got home)
+
+  - to talk about an **indefinite time before a particular point** in the past, often with words like `always`, `sometime`, `never`, `before`, `by + fixed time`:
+
+  > His family were richer than they **had ever been before**. (= they were not as rich at any time before this point in the past)
+
+  > **By the time** he was six, the little boy **had written** a composition of his own.
+
+  - to **report past events** using reporting verbs [Unit 15]():
+
+  > The man told me he **had met** my father a long time before.
+
+##Past perfect continuous
+
+|Sym|Form|Example|
+|---|----|-------|
+|`+`| _had been_ + verb + ing | She'**d been studying** for ages. |
+|`-`| _had not been_ + verb + ing | He **hadn't been studying** for long. |
+|`?`| _had...been_ + verb + ing? | **Had** you **been studying** for long? |
+
+The past perfect continuous is used to focus on **how long an activity continued** or to focus on **the activity itself**:
+
+  > Times were hard and the family **had been struggling for some time**. (to show how long)
+
+  > Mozart's sister was extremely gifted at the keyboard and she **had been making excellent progress**. (focus on the activity)
+
+!**Do not** use past perfect continuous to say **how many times something happened**:
+
+  > I knew the way as **I had visited** her several times before. (not I knew the way as I had been visiting her several times)
+
+!State verbs do not generally have a continuous form.
+
+**Grammar extra: Unfulfilled hopes**
+
+We use the past perfect to talk about past disappointments or things that did not happen as expected:
+
+  > The politician **had expected** to be re-elected, but in the end she only got ten per cent of the vote.
+
+  > I **had been hoping** to go with my brother on his trip but I was too sick to go.
