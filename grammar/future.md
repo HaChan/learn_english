@@ -104,3 +104,98 @@ In formal writing, we often use expressions other than `will` to predict the fut
   > The population **is likely to** increase to 22 million in 2011.
 
   > The average annual rainfall **is predicted to** be ten per cent lower than today's figures.
+
+####Present simple
+
+Use present simple with a future meaning:
+
+  - to talk about **timetables** or **schedules**:
+
+  > The conference only **lasts** three days.
+
+  > The train to the airport **leaves** in 20 minutes.
+
+  - **after conjunctions** such as `when`, `as soon as`, `after`, `before`, `until`, `as long as`:
+
+  > I'll be feeling really nervous **when I get** to Rome (**not** when I will get to Rome)
+
+  > Can you do it **before** we **have** the departmental meeting (not before we will have ...)
+
+  Note that other present tenses are also possible:
+
+  > I won't be able to relax **until** I**'m** actually **giving** my talk.
+
+####Be about to
+
+|Sym|Form|Example|
+|---|----|-------|
+|`+`| _am/is/are about to_ + verb | I**'m about to go** to Rome |
+|`-`| _am/is/are not about to_ + verb | I**'m not about to go** to Rome |
+|`?`| _am/is/are_... + verb? | Are you **about to go** to Rome? |
+
+`about to` is used to talk about something likely to happen in the immediate future:
+
+  > I**'m about to go** to Rome for a conference. (I will be leaving very soon)
+
+!Note: the negative form suggests the speaker has no intention of doing something:
+
+  > I**'m not about to cancel** my trip. (I have no intention of cancelling my trip)
+
+####Future continuous
+
+|Sym|Form|Example|
+|---|----|-------|
+|`+`| _will be_ + verb + ing | I**'ll be feeling** nervous |
+|`-`| _will not (won't) be_ + verb ing | She **won't be feeling** nervous |
+|`?`| _will_... be + verb + ing? | **Will** you **be feeling** nervous? |
+
+Future continuous is used:
+
+  - to **describe** or **predict events** or **situations** _continuing_ at a **particular point** in the future or **over a period** of time in the future.
+
+  > I**'ll be working** on the report _all next week_.
+
+  > I**'ll be thinking** of you _in Rome_.
+
+  > _By the year 2015_ it is estimated that well over one billion people **will be learing** English
+
+  - to talk about **events** that are **planned** or **already decided** (this use is similar to the present continuous for future arrangements):
+
+  > I**'ll be seeing** Sarah at lunch.
+
+####Future perfect simple
+
+|Sym|Form|Example|
+|---|----|-------|
+|`+`| _will have_ + past participle | I**'ll have done** it by then |
+|`-`| _will not (won't) have_ + past participle | We **won't have done** it by then |
+|`?`| _will_... have + past participle? | **Will** you **have done** it by then? |
+
+Future perfect simple is used to _talk about_ a **future event** that will **finish before** a **specified time in the future**, often with `before`, `by` + fixed time, or `in` + amount of time:
+
+> _By the end of the year_ I **will have given** the same talk at 6 conferences!
+
+> I**'ll have finished** it _by next Friday_.
+
+> _In a week's time_ I**'ll have written** the report.
+
+####Future perfect continuous
+
+|Sym|Form|Example|
+|---|----|-------|
+|`+`| _will have been_ + verb + -ing | I**'ll have been studying** here for three months |
+|`-`| _will not (won't) have been_ + verb + -ing | We **won't have been studying** here for long |
+|`?`| _will_... have been + verb + -ing? | How long **will** you **have been studying** here? |
+
+Future perfect continuous is used to show **how long** an _activity_ or _situation_ has been **in progress before a specified time** in the future. Usually mention the length of time:
+
+> _By the end of the month_ I**'ll have been working** here _for three years_.
+
+
+**Grammar extra: The future in the past**
+
+`was/were going to`, `was/were planning to`, `was/were about to` + verb is used to talk about **something planned** which **did not** or **will not happen**:
+
+> I **was going to leave** this morning but they cancelled my flight.
+
+> We **were about to leave** when the phone rang.
