@@ -57,7 +57,7 @@ Compare the use of the present perfect with the past simple:
 
 **Note** the position of the time expressions that occur with the present perfect:
 
-- between the auxiliary and main verb (e.g. _recently, _already_, _always_, _ever_, _just_, _never_)
+- between the auxiliary and main verb (e.g. _recently_, _already_, _always_, _ever_, _just_, _never_)
 
   > I have **already** written the notes.
 
